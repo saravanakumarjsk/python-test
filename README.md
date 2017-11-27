@@ -1,2 +1,2 @@
 # python-test
-no so special
+this repo contains general python progrmms
